@@ -1,0 +1,41 @@
+body {
+	background-color: #3F51B5;
+}
+#bannerpic {
+	float: right;
+	margin: 15px;
+	border-width: 10px;
+	border-style: groove;
+	border-color: maroon;
+	padding: 5px;
+	box-shadow: 10px 10px 28px gray;
+}
+
+.floatclear {
+	clear: both;
+}
+
+#banner {
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 25px;
+}
+
+#aboutme {
+	background-color: #87CEEB;
+	color:#2196F3;
+	font-size: 2em;
+	padding: 15px;
+	border-radius: 25%;
+}
+
+#aboutme:hover {
+    background-color: #2196F3;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,255,0.30), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#slideshow {
+	border: orange groove 20px;
+	padding: 20px;
+}
